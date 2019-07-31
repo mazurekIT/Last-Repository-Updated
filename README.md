@@ -1,5 +1,3 @@
-//TODO opis co się dzieje z czego korzystałem, wymienić eendpointy, ewentualne co można zrobic lepiej lub dodać
-
 # LAST UPDETED REPOSITORY
 Return the name of repository from GitHub that was last modified. 
 
